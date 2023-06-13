@@ -1,10 +1,12 @@
 # Challenge-07
 
-## Server: 
+Live Demo: [https://bcr-six.vercel.app/] (https://bcr-six.vercel.app/)
+
+## Server:
 
 https://github.com/synrgy-5-fsw-1-cihuy/challenge-7-dummy-server.git
 
-Local demo: [http://localhost:8080/api/cars](http://localhost:8080/api/cars)
+Local demo: [http://localhost:8080/api/cars](http://localhost:8080/api/cars) \*Dead
 
 Provided by the one and only @zekhoi sama
 
@@ -12,7 +14,6 @@ Provided by the one and only @zekhoi sama
 <br/>
 <br/>
 <br/>
-
 
 # Getting Started with Create React App
 
