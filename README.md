@@ -1,6 +1,7 @@
 # Challenge-07
 
-Live Demo: [https://bcr-six.vercel.app/] (https://bcr-six.vercel.app/)
+Live Demo: [https://bcr-six.vercel.app](https://bcr-six.vercel.app)
+Local Demo : [http://localhost:3000](http://localhost:3000)
 
 ## Server:
 
